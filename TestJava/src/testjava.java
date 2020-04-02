@@ -10,15 +10,11 @@
  */
 public class testjava {
     
-<<<<<<< Updated upstream
     public static void main(String[] args) {
         boolean c=true;
         int a=5;
         System.err.println("Testttttt");
         
     }
-=======
-   //Testttt
-    
->>>>>>> Stashed changes
+
 }
