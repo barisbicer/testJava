@@ -17,6 +17,7 @@ public class testjava {
         int b=10;
          System.err.println("yENİ BİR ");
          int b=100;
+             int c=100;
         
     }
 
