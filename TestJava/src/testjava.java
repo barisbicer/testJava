@@ -20,6 +20,7 @@ public class testjava {
              int c=100;
             int d=100;
               int f=100;
+        int e=100;
     }
 
 }
