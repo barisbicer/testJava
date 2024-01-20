@@ -15,6 +15,7 @@ public class testjava {
         int a=5;
         System.err.println("Testttttt");
         int b=10;
+         System.err.println("yENİ BİR ");
         
     }
 
