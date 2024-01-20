@@ -14,6 +14,7 @@ public class testjava {
         boolean c=true;
         int a=5;
         System.err.println("Testttttt");
+        int b=10;
         
     }
 
