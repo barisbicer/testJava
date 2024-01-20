@@ -15,12 +15,8 @@ public class testjava {
         int a=5;
         System.err.println("Testttttt");
         int b=10;
-         System.err.println("yENİ BİR ");
-         int b=100;
-             int c=100;
-            int d=100;
-              int f=100;
-        int e=100;
+        System.err.println("yENİ BİR ");
+        int c=100;
     }
 
 }
